@@ -1,4 +1,4 @@
-FROM debian:7
+FROM ubuntu:trusty
 
 ENV VERSION 3.3.2
 ENV RELEASE 1
